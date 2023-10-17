@@ -5628,6 +5628,9 @@
     "/szu/yz/:type?": [
         "NagaruZ"
     ],
+    "/tableau/app/discover/viz-of-the-day": [
+        "KaiyoungYu"
+    ],
     "/taiwannews/hot/:lang?": [
         "TonyRL"
     ],
@@ -6922,6 +6925,9 @@
     ],
     "/zju/physics/:type": [
         "Caicailiushui"
+    ],
+    "/zjuvag/blog": [
+        "KaiyoungYu"
     ],
     "/zodgame/forum/:fid?": [
         "FeCCC"
