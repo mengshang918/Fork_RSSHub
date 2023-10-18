@@ -1185,6 +1185,9 @@
     "/chinafactcheck/": [
         "kdanfly"
     ],
+    "/chinaisa/:id?": [
+        "nczitzk"
+    ],
     "/chinanews/": [
         "yuxinliu-alex"
     ],
@@ -2323,6 +2326,14 @@
         "CcccFz"
     ],
     "/gocn/jobs": [
+        "AtlanCI",
+        "CcccFz"
+    ],
+    "/gocn/news": [
+        "AtlanCI"
+    ],
+    "/gocn/topics": [
+        "AtlanCI",
         "CcccFz"
     ],
     "/gogoanimehd/recent-releases": [
